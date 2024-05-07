@@ -99,10 +99,13 @@ footer {
   }
    
   .cl1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 10px;
   }
   .cl2 {
+    padding-top: 10px;
     padding-left: 10px;
     padding-right: 30px;
   }
